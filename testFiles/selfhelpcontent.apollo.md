@@ -12,6 +12,7 @@
 	ownershipId="AzureKeyVault_KeyVault"
 />
 
+
 # Lost or Deleted Keys and Secrets in Key Vault
 :::Section Recommended Solution:::
 ## Recovering lost or deleted keys and secrets in Key Vault
